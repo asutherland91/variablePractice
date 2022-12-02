@@ -7,3 +7,11 @@ var favoriteNumber = 18
 var tall = true
 var female = true
 var old = false
+
+name = "Jacob"
+cat = "Artemis"
+food = "Ramen"
+
+console.log(cats)
+console.log(tall)
+console.log(name)
