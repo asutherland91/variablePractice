@@ -4,3 +4,6 @@ var food = "Apple"
 var age = 31
 var cats = 3
 var favoriteNumber = 18
+var tall = true
+var female = true
+var old = false
